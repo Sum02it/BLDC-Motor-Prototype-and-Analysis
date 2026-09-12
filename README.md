@@ -125,23 +125,3 @@ Sumit Kumar Chaudhary
 
 Department of Electrical Engineering
 IIT Bhubaneswar
-
-
-### One thing I'd change before you commit
-
-Your current GitHub repo name is:
-
-**`BLDC-Motor-Prototype-and-Analysis`**
-
-That's good. For the **resume**, use:
-
-> **Brushless DC (BLDC) Motor: Prototype & Analysis**
-
-The project is particularly valuable on your resume because it demonstrates **actual hardware + electrical machine design + CAD + experimental testing**, complementing your Smart LVDT simulation project. Your presentation documents the custom 6-slot/4-pole design, three-phase star-connected windings, and experimental back-EMF verification. :contentReference[oaicite:1]{index=1} :contentReference[oaicite:2]{index=2}
-
-After pasting it into `README.md`, run:
-
-```bash
-git add README.md
-git commit -m "Add BLDC project documentation"
-git push
